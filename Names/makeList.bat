@@ -1,1 +1,1 @@
-dir /b /a-d N* > FileList.txt
+dir /b /a-d Names_* > FileList.txt
